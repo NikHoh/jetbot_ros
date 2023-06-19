@@ -10,7 +10,7 @@ from std_msgs.msg import String
 
 # sets motor speed between [-1.0, 1.0]
 def set_speed(motor_ID, value):
-	max_pwm = 115.0
+	max_pwm = 255.0
 	speed = int(min(max(abs(value * max_pwm), 0), max_pwm))
 
 	if motor_ID == 1:
