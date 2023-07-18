@@ -476,6 +476,8 @@ See the [`gazebo`](gazebo) directory of the repo for instructions on loading the
 
 For example, you could build the arena in gazebo (PDF files of the arena walls available in the folder `arena`), simulate the camera there, and set up the localization there as well. Then you would be able to do further developments solely in the simulation.
 
+See (https://github.com/SUVARI112/PS_Simulation) for an examplary setup.
+
 # Things you could/should do next
 
 - install Ubuntu 18.04 and ROS melodic on another computer (virtual maschine possible) and try to connect the robot the the computer via ROS:
