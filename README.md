@@ -3,6 +3,7 @@
 This repo is originally a fork from dusty-nv/jetbot_ros that was extended to serve as starting base for the students in the project seminar
 https://www.etit.tu-darmstadt.de/ris/lehre_ris/lehrveranstaltungen_ris/pro_robo_ris/index.de.jsp
 
+![JetBot on its way to move a colored cube into the correct base](https://github.com/NikHoh/jetbot_ros/blob/melodic/images/jetbot_photo.jpg)
 
 # Basic Knowledge (all of you should know)
 
@@ -49,7 +50,12 @@ The global coordinate system's origin is set in one corner of the arena.
 
 There are differently colored bases distribued in the arena that are either located in the arena's corners or in the middle of one of the arena's sides. All bases can be printed on DIN A4 sheets of paper and cut by a pair of scissors along the dotted line to their final shape of 21cm x 21cm. The colored circles are centered in the base squares and have a radius of 6cm. The Start - Goal - circle is centered in its base square and measures 7cm in radius. The sheet of paper with the bases in PDF format is located in the folder `arena`.
 
-![Arena layout](https://github.com/NikHoh/jetbot_ros/blob/melodic/images/arena_setup.png)
+Arena layout            |  JetBot in the arena with colored cubes
+:-------------------------:|:-------------------------:
+![Arena layout](https://github.com/NikHoh/jetbot_ros/blob/melodic/images/arena_setup.png)  |  ![JetBot in the arena with colored cubes](https://github.com/NikHoh/jetbot_ros/blob/melodic/images/arena_photo.jpg)
+
+
+
 
 ## The robot
 
