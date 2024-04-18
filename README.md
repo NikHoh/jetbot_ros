@@ -1,7 +1,5 @@
 # Project Seminar 'Robotics and Computational Intelligence' 2023 presented by RIS | Technical University of Darmstadt
 
-More information on the course https://www.etit.tu-darmstadt.de/ris/lehre_ris/lehrveranstaltungen_ris/pro_robo_ris/index.de.jsp
-
 This repo is originally a fork from dusty-nv/jetbot_ros that was extended to serve as starting base for the students in the project seminar
 https://www.etit.tu-darmstadt.de/ris/lehre_ris/lehrveranstaltungen_ris/pro_robo_ris/index.de.jsp
 
@@ -454,7 +452,7 @@ rviz
 
 In the appearing RVIZ window you can add the an image view to view the `tag_detections_image` topic and adding a `TF` visualization. Holding one of the arena's wall elements in front of the camera, there should now be tags detected, and a respective coordinate frame should appear. 
 
-![RVIZ window](https://github.com/NikHoh/jetbot_ros/blob/melodic/images/rviz)
+![RVIZ window](https://github.com/NikHoh/jetbot_ros/blob/melodic/images/rviz.png)
 
 Helpful tools for your further work with ROS are:
 - rqt 
