@@ -1,4 +1,6 @@
-# Project Seminar ris | Technical University of Darmstadt
+# Project Seminar 'Robotics and Computational Intelligence' 2023 presented by RIS | Technical University of Darmstadt
+
+More information on the course https://www.etit.tu-darmstadt.de/ris/lehre_ris/lehrveranstaltungen_ris/pro_robo_ris/index.de.jsp
 
 This repo is originally a fork from dusty-nv/jetbot_ros that was extended to serve as starting base for the students in the project seminar
 https://www.etit.tu-darmstadt.de/ris/lehre_ris/lehrveranstaltungen_ris/pro_robo_ris/index.de.jsp
